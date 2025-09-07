@@ -21,7 +21,7 @@ This module listens for double-taps on the power button and toggles the flashlig
 
 ## Installation
 
-1. Flash the module zip file in Magisk Manager
+1. Flash two module zip file in Magisk Manager
 2. Reboot your device
 3. Double press the power button to toggle flashlight
 
