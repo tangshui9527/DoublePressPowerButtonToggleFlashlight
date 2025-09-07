@@ -67,8 +67,6 @@ If the module doesn't work:
 
 This module modifies system behavior and requires root access. Use at your own risk. The authors are not responsible for any damage to your device.
 
-## Author
+## Oh
 
-Ash
-
-> May the Holy Light protect you.# DoublePressPowerButtonToggleFlashlight
+> May the Holy Light protect you.
